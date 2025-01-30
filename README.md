@@ -4,7 +4,7 @@ Hello!
 To run these files, please do the following:
 
 1- Clone the repository to your machine via git clone and then the url of the repository
-2- navigate to the project directory "Assignment" using cd Assignment
+2- navigate to the project directory "assignment" using cd assignment
 3- Install Docker 
 4- Configure your MongoDB using the URI/connection string mongodb+srv://niwatorim001:testing123@users.eihuf.mongodb.net/Users?retryWrites=true&w=majority&appName=Users
 4- Build Docker image using command: docker build -t assignment .
